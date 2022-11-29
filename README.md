@@ -19,6 +19,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🚀  I'm currently working on my personal portfolio
 *   ✉️  You can contact me at [catalin.maeschi23@gmail.com](mailto:catalin.maeschi23@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects  
+*   👨🏻‍🏫  I teach children the following programming languages/tools: [![My Skills](https://skillicons.dev/icons?i=unity,python,javascript)](https://skillicons.dev)
+
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,git,mysql,sqlite,ts,js,react,visualstudio,vscode)](https://skillicons.dev)
