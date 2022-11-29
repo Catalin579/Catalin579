@@ -8,7 +8,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   ✉️  You can contact me at [catalin.maeschi23@gmail.com](mailto:catalin.maeschi23@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects  
 
-    
-    
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,mysql,sqlite,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,mysql,sqlite,ts,js,react)](https://skillicons.dev)
