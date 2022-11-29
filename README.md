@@ -1,12 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maeschi Catalin
 =====================================================================================================================================
 
-<p align="center">
-  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/peterthehan"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
-  <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" title="npm" height="48" width="48" src="assets/npm.svg"></a>
+<p>
+  <a href="https://www.linkedin.com/in/catalin-maeschi-2307b2212" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/Catalin579" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+  </a>
 </p>
-
 
 .NET Developer
 -------------------
