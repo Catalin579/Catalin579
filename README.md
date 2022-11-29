@@ -1,7 +1,3 @@
-<div align="left">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
-</div>
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maeschi Catalin
 =====================================================================================================================================
 
@@ -22,5 +18,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   👨🏻‍🏫  I teach children the following programming languages/tools: [![My Skills](https://skillicons.dev/icons?i=unity,python,javascript)](https://skillicons.dev)
 
 
-### Skills 
+### 🔨 Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,git,mysql,sqlite,ts,js,react,visualstudio,vscode)](https://skillicons.dev)
+
+
+
+<div align="left">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+</div>
+
