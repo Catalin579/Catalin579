@@ -17,4 +17,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝  I'm open to collaborating on interesting projects  
 
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,git,mysql,sqlite,ts,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,git,mysql,sqlite,ts,js,react,visualstudio,vscode)](https://skillicons.dev)
