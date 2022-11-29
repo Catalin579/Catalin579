@@ -11,4 +11,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     
     
 ### Skills 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,.net, unity, git, mysql, sqlite, ts, html, css)](https://skillicons.dev)
