@@ -6,7 +6,5 @@ Fullstack developer
 *   🚀  I'm currently working on my personal portfolio
 *   ✉️  You can contact me at [catalin.maeschi23@gmail.com](mailto:catalin.maeschi23@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects
-(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
-
-
-(https://www.linkedin.com/in/catalin-maeschi-2307b2212/)
+*   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
