@@ -23,9 +23,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ### 🔨 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,git,mysql,sqlite,ts,js,react,visualstudio,vscode)](https://skillicons.dev)
-
-
--------------------
-
-
+<img src="{	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white}" />
