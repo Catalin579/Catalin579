@@ -17,8 +17,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 .NET Developer
 -------------------
 *   🚀  I'm currently working on my personal portfolio
-*   ✔️  My current interests are: .NET Applications, Unity Games
-*   🌱  I’m currently learning: C++.
+*   ✔️  My current interests are: .NET Applications (ASP, WPF), Unity Games
 *   ✉️  You can contact me at [catalin.maeschi23@gmail.com](mailto:catalin.maeschi23@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects  
 *   👨🏻‍🏫  I teach children between the ages of 7 and above the following programming languages/tools: [![My Skills](https://skillicons.dev/icons?i=unity,python,javascript)](https://skillicons.dev)
