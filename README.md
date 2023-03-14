@@ -18,8 +18,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝  I'm open to collaborating on interesting projects  
 *   👨🏻‍🏫  I teach kids between the ages of 7 and above the following programming languages/tools: [![My Skills](https://skillicons.dev/icons?i=unity,python,javascript)](https://skillicons.dev)
 
-
+unity,js,ts,react,nodejs,git
 ### 🔨 Languages and Tools:
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,unity,js,ts,react,nodejs,git" />
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" />
+  </a>
+   <a href="https://dotnet.microsoft.com/en-us/">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
+  </a>
+   <a href="https://unity.com/">
+    <img src="https://skillicons.dev/icons?i=unity" />
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+   <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
