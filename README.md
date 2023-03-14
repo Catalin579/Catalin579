@@ -18,7 +18,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝  I'm open to collaborating on interesting projects  
 *   👨🏻‍🏫  I teach kids between the ages of 7 and above the following programming languages/tools: [![My Skills](https://skillicons.dev/icons?i=unity,python,javascript)](https://skillicons.dev)
 
-unity,js,ts,react,nodejs,git
 ### 🔨 Languages and Tools:
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://skillicons.dev/icons?i=cs" />
