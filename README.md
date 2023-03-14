@@ -28,6 +28,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    <a href="https://unity.com/">
     <img src="https://skillicons.dev/icons?i=unity" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
