@@ -18,6 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🤝  I'm open to collaborating on interesting projects  
 
 ### 🔨 Languages and Tools:
+<p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://skillicons.dev/icons?i=cs" />
   </a>
@@ -48,3 +49,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
+</p>
