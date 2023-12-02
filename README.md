@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 <h2 align="center">RPA Developer</h2>
-<h6 align="center"><i>using UiPath😃</i></h6>
+<h6 align="center"><i>using UiPath</i></h6>
 
 -------------------
 *   🚀  I'm currently working on my personal portfolio
