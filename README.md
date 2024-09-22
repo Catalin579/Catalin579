@@ -11,8 +11,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.linkedin.com/in/catalin-maeschi-2307b2212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/catalin-maeschi-2307b2212/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">RPA & Power BI Developer</h2>
-<h6 align="center"><i>using UiPath</i></h6>
+<h2 align="center">RPA Developer & Power BI Support</h2>
+<h6 align="center"><i></i></h6>
 
 -------------------
 *   🚀  I'm currently working on my personal portfolio
