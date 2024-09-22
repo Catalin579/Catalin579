@@ -38,13 +38,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
-  </a>
-   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://reactjs.org/">
-    <img src="https://skillicons.dev/icons?i=react" />
-  </a>
   <a href="https://nodejs.org/en/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
