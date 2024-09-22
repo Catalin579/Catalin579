@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://www.linkedin.com/in/catalin-maeschi-2307b2212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/catalin-maeschi-2307b2212/" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">RPA Developer</h2>
+<h2 align="center">RPA & Power BI Developer</h2>
 <h6 align="center"><i>using UiPath</i></h6>
 
 -------------------
@@ -27,7 +27,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    <a href="https://dotnet.microsoft.com/en-us/">
     <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
-   <a href="https://unity.com/">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=py" />
+  <a href="https://nodejs.org/en/">
+  <a href="https://unity.com/">
     <img src="https://skillicons.dev/icons?i=unity" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -36,7 +39,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
   <a href="https://nodejs.org/en/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
